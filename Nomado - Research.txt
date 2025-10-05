@@ -1,0 +1,123 @@
+Nomado - Reference Links & Explanations
+
+---
+
+European Union
+
+1. eIDAS Regulation (Regulation (EU) No 910/2014)
+- Legal framework for electronic identification and trust services across the EU.
+- Explains which electronic IDs are recognized by public authorities and under what conditions.
+- Source: https://eur-lex.europa.eu/eli/reg/2014/910/oj
+
+2. GDPR (Regulation (EU) 2016/679)
+- EU General Data Protection Regulation — governs how personal data can be collected, stored, and processed.
+- Essential for any digital identity or credential system handling personal information.
+- Source: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+
+3. European Health Insurance Card (EHIC) - European Commission
+- Official EU page explaining the EHIC scheme, coverage, and use across EU/EEA/CH.
+- Source: https://health.ec.europa.eu/system/files/2021-11/ehic_en_0.pdf
+
+4. MyHealth@EU / European Health Data Space (European Commission)
+- Describes EU efforts to enable cross-border health data exchange.
+- Source: https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_en
+
+---
+Poland
+
+5. Polish Act on Identity Cards (Ustawa o dowodach osobistych)
+- National law defining official identity cards, issuance procedures, and legal validity.
+- Shows that only state authorities can issue official IDs.
+- Source: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000060
+
+6. Polish Penal Code – Article 270 (Document Forgery)
+- Criminal provision penalizing the creation, alteration, or use of false documents.
+- Includes stricter penalties when the document is an ID or official certificate.
+- Source: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553
+
+---
+
+Bulgaria
+
+7. Закон за българските лични документи (Personal Documents Act)
+- Defines what counts as a Bulgarian personal document (passport, ID card, driving licence).
+- Confirms these are state-issued and state property.
+- Source: https://lex.bg/laws/ldoc/2134173441
+
+8. Български Наказателен кодекс (Bulgarian Penal Code)
+- Articles criminalizing document forgery and illegal possession or creation of identity documents.
+- Source: https://lex.bg/laws/ldoc/1589654529
+
+---
+
+International & Comparative
+
+9. UK – Forgery and Counterfeiting Act 1981
+- UK statute that defines forgery offences and the illegal production or use of documents resembling official ones.
+- Source: https://www.legislation.gov.uk/ukpga/1981/45
+
+10. USA – 18 U.S. Code § 1028 (Fraud in connection with identification documents)
+- Federal law prohibiting production or use of fake or unauthorized identification documents.
+- Source: https://www.law.cornell.edu/uscode/text/18/1028
+
+---
+
+Technical & Standards References
+
+11. W3C Verifiable Credentials (VC) Standard
+- Defines the data model for cryptographically verifiable digital credentials.
+- Source: https://www.w3.org/TR/vc-data-model/
+
+12. FHIR (Fast Healthcare Interoperability Resources)
+- HL7 international standard for exchanging healthcare data electronically.
+- Source: https://hl7.org/fhir/
+
+13. SMART Health Cards (VCI Initiative)
+- Standard for portable, verifiable vaccination and test result credentials.
+- Used by Apple Wallet, Google Wallet, and CommonHealth.
+- Source: https://smarthealth.cards/
+
+14. ISO/IEC 18013-5:2021 (Mobile Driving Licence)
+- Defines the international standard for digital/mobile driving licences and NFC verification.
+- Source: https://www.iso.org/standard/69084.html
+
+---
+
+NFC and Security
+
+15. NXP MIFARE DESFire EV3 Overview
+- Example of a secure element (smartcard chip) used for encrypted NFC credentials.
+- Shows hardware-level protections against cloning and skimming.
+- Source: https://www.nxp.com/products/rfid-nfc/mifare-ics/mifare-desfire/mifare-desfire-ev3:MIFARE-DESFIRE-EV3
+
+16. OWASP Cheat Sheet – Secure Storage and Data Protection
+- Security best practices for protecting cryptographic keys and sensitive data.
+- Source: https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html
+
+17. European Union Agency for Cybersecurity (ENISA) – Electronic ID Security Reports**
+- Analyses of eID and smartcard security in the EU.
+- Source: https://www.enisa.europa.eu/topics/identity-and-trust
+
+---
+
+Existing Global Health/Insurance Apps & Frameworks
+
+18. CommonHealth (The Commons Project)
+- Privacy-respecting app for storing vaccination and health records using SMART Health Cards.
+- Source: https://thecommonsproject.org/commonhealth
+
+19. Apple Health / Wallet (SMART Health Card integration)
+- Apple’s official documentation on storing and presenting verifiable health data.
+- Source: https://support.apple.com/en-us/HT212752
+
+20. Google Wallet Health Pass Integration
+- Google Wallet supports adding digital vaccination or test certificates.
+- Source: https://developers.google.com/wallet/verticals/health-cards
+
+21. Allianz MyHealth App
+- Global insurer app that allows policyholders to view and use their health coverage digitally.
+- Source: https://www.allianzcare.com/en/myhealth-app.html
+
+---
+
+This collection of links includes legal texts proving that only governments can issue official IDs, cybersecurity standards, digital ID frameworks (eIDAS, W3C VC), and technical NFC and health data standards. Together, they show both the **legal limits** and **technical opportunities** for your Smart Travel Card / Global Health Access Card project.
