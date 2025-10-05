@@ -30,6 +30,15 @@ SCK   -> SCLK/GPIO11 (Pin 23)
 MOSI  -> MOSI/GPIO10 (Pin 19)
 MISO  -> MISO/GPIO9 (Pin 21)
 ```
+## Wiring (AS608 to Raspberry Pi)
+```
+AS608    Raspberry Pi
+5V   -> 5 (Pin 2)
+GND  -> GND (Pin 9)
+RX   -> TX (Pin 8)
+TX   -> RX (Pin 10)
+
+```
 
 ## Software Requirements
 
