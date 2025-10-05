@@ -1,0 +1,1 @@
+# RFID Card Management Core Module
